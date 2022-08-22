@@ -4,6 +4,8 @@ This is the repository that stores my PHD files.
 
 
 ## Design Science Research as Research Methodology
++ [Research design](https://www.google.com)
++ [Result: paper explaining the DSR-based research designing (JSERD 2022)]()
 
 ---
 ## Problem Understanding Approach
