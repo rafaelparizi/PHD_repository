@@ -16,6 +16,7 @@ This is the repository that stores my PHD files.
 ### Exploratory studies
 
 #### Literature mapping on Design Thinking in Software Development
++ [Article - Journal of System and Software (2022)](https://www.sciencedirect.com/science/article/pii/S0164121222000024)
 
 #### Survey with IT professionals on the use of Design Thinking in Software Development
 
