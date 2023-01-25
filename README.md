@@ -41,7 +41,7 @@ This is the repository that stores my PHD files.
 #### Interview-based study for collecting the decision-making behind the selection of DT techniques in software development:
 + [Research protocol](https://github.com/rafaelparizi/PHD_repository/blob/main/Solution%20design%20and%20validation%20studies/Proposta_Roteiro_Entrevista_v5.pdf)
 + TODO: Interviews' trascriptions (PT-BR)
-+ TODO: Interviews' debriefings (PT-BR)
++ [Interviews' debriefings (PT-BR) - example](https://github.com/rafaelparizi/PHD_repository/blob/16316765849bf30b0389f09363d91835f2a7b70d/Solution%20design%20and%20validation%20studies/decision-making/debriefing_merged.pdf)
 + [Interviews' data analysis (coding)(PT-BR)](https://github.com/rafaelparizi/PHD_repository/blob/5ea6f4366ed5ff951bfdc2949e7fdfc3974c23de/Solution%20design%20and%20validation%20studies/decision-making/DecisionMaking_codes.pdf)
 + TODO: Resulting paper (submitted)
 
