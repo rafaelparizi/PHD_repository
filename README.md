@@ -42,7 +42,7 @@ This is the repository that stores my PHD files.
 + [Research protocol](https://github.com/rafaelparizi/PHD_repository/blob/main/Solution%20design%20and%20validation%20studies/Proposta_Roteiro_Entrevista_v5.pdf)
 + TODO: Interviews' trascriptions (PT-BR)
 + TODO: Interviews' debriefings (PT-BR)
-+ TODO: Interviews' data analysis (coding) (PT-BR)
++ [Interviews' data analysis (coding)(PT-BR)](https://github.com/rafaelparizi/PHD_repository/blob/5ea6f4366ed5ff951bfdc2949e7fdfc3974c23de/Solution%20design%20and%20validation%20studies/decision-making/DecisionMaking_codes.pdf)
 + TODO: Resulting paper (submitted)
 
 #### Experimental study for evaluating the DT techniques recommendations in software development:
