@@ -46,6 +46,6 @@ This is the repository that stores my PHD files.
 + TODO: Resulting paper (submitted)
 
 #### Experimental study for evaluating the DT techniques recommendations in software development:
-+ [Research protocol](https://www.google.com)
+
 
 
