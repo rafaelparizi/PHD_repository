@@ -19,6 +19,7 @@ This is the repository that stores my PHD files.
 + [Article - Journal of System and Software (2022)](https://www.sciencedirect.com/science/article/pii/S0164121222000024)
 
 #### Survey with IT professionals on the use of Design Thinking in Software Development
++ [Conference Paper - XP 2020] (https://library.oapen.org/bitstream/handle/20.500.12657/39587/2020_Book_AgileProcessesInSoftwareEngine.pdf?sequence=1#page=81)
 
 #### Meta-DT session for identifying a research problem
 
