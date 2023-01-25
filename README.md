@@ -30,14 +30,14 @@ This is the repository that stores my PHD files.
 ### Iteration 1: Solution proposal and early evaluation
 
 
-#### Study 1:
+<!-- #### Study 1: -->
 
-#### Study 2:
+<!-- #### Study 2: -->
 
 
 ### Iteration 2: Solution refining and initial validation
-#### Study 1:
-#### Study 2:
+<!-- #### Study 1: -->
+<!-- #### Study 2: -->
 
 ### Iteration 3: Solution evolution and validation
 #### Interview-based study for collecting the decision-making behind the selection of DT techniques in software development:
