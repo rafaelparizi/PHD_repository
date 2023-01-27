@@ -46,6 +46,7 @@ This is the repository that stores my PHD files.
 + [Interviews' debriefings (PT-BR) - example](https://github.com/rafaelparizi/PHD_repository/blob/16316765849bf30b0389f09363d91835f2a7b70d/Solution%20design%20and%20validation%20studies/decision-making/debriefing_merged.pdf)
 + [Interviews' data analysis (coding)(PT-BR)](https://github.com/rafaelparizi/PHD_repository/blob/5ea6f4366ed5ff951bfdc2949e7fdfc3974c23de/Solution%20design%20and%20validation%20studies/decision-making/DecisionMaking_codes.pdf)
 + TODO: Resulting paper (submitted)
++ [Results summary - Presentation](https://github.com/rafaelparizi/PHD_repository/blob/3c576c7f8193730bd4514ca0a5848a1d682f102e/Solution%20design%20and%20validation%20studies/decision-making/Presentation_results.pdf)
 
 #### Experimental study for evaluating the DT techniques recommendations in software development:
 
