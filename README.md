@@ -44,7 +44,7 @@ This is the repository that stores my PHD files.
 + [Research protocol](https://github.com/rafaelparizi/PHD_repository/blob/2f74e8eec9bb8cf4bd247a33340dc726690194d9/Solution%20design%20and%20validation%20studies/decision-making/Proposta_Roteiro_Entrevista_v5.pdf)
 + [Interviews' trascriptions (PT-BR)+EN](https://github.com/rafaelparizi/PHD_repository/blob/970fd9466a0d5c8079ed7b74cbdfc3ef24cbfcc5/Solution%20design%20and%20validation%20studies/decision-making/Documents_interviews.pdf)
 + [Interviews' debriefings (PT-BR) - example](https://github.com/rafaelparizi/PHD_repository/blob/16316765849bf30b0389f09363d91835f2a7b70d/Solution%20design%20and%20validation%20studies/decision-making/debriefing_merged.pdf)
-+ [Interviews' data analysis (coding)(PT-BR)](https://github.com/rafaelparizi/PHD_repository/blob/5ea6f4366ed5ff951bfdc2949e7fdfc3974c23de/Solution%20design%20and%20validation%20studies/decision-making/DecisionMaking_codes.pdf)
++ [Interviews' data analysis (coding)(EN)](https://github.com/rafaelparizi/PHD_repository/blob/8befd12f1772949d32df157190fdb4ed5c8ff793/Solution%20design%20and%20validation%20studies/decision-making/DecisionMakingDT_evidences_and_codes.pdf)
 + [Results summary - Presentation](https://github.com/rafaelparizi/PHD_repository/blob/3c576c7f8193730bd4514ca0a5848a1d682f102e/Solution%20design%20and%20validation%20studies/decision-making/Presentation_results.pdf)
 + TODO: Resulting paper (to be submitted)
 #### Experimental study for evaluating the DT techniques recommendations in software development:
